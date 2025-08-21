@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "button breakout-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/button breakout-eagle-import.kicad_sym")(options "")(descr ""))
+)

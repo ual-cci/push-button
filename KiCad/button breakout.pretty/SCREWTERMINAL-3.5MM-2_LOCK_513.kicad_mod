@@ -1,0 +1,241 @@
+(footprint "SCREWTERMINAL-3.5MM-2_LOCK_513"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Screw Terminal  3.5mm Pitch - 2 Pin PTH Locking Holes are offset from center 0.005\" to hold pins in place during soldering.\n\nSpecifications:\n\n• Pin count: 2\n• Pin pitch: 3.5mm/138mil\n\nDatasheet referenced for footprint\n\nExample device(s):\n\n• CONN_02")
+	(property "Reference" "REF**"
+		(at -1.27 -2.54 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b206ef46-e40d-4551-b2c0-1cbb52660472")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "SCREWTERMINAL-3.5MM-2_LOCK_513"
+		(at -1.27 -1.27 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7e8e299f-6051-4e89-a3f3-0c81c84bdcde")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6205e92a-52d7-4ae2-9d5b-f241d3fa9d6f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee790d39-57e6-4700-9e43-523e8a7ed38e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.75 -3.4)
+		(end 5.25 -3.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5eb1e940-ba32-4d0c-931a-3be157f395e2")
+	)
+	(fp_line
+		(start -1.75 2.8)
+		(end -1.75 -3.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "14f10b85-f10d-4be9-864c-12fd59586196")
+	)
+	(fp_line
+		(start -1.75 3.6)
+		(end -1.75 2.8)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9622e3d1-5553-4b65-bd27-6ca1f96f185f")
+	)
+	(fp_line
+		(start 5.25 -3.4)
+		(end 5.25 2.8)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "091dfa6b-587e-4aee-92ca-71f0dbf5ff05")
+	)
+	(fp_line
+		(start 5.25 2.8)
+		(end -1.75 2.8)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "927495eb-34bc-457b-a7c8-821951036308")
+	)
+	(fp_line
+		(start 5.25 2.8)
+		(end 5.25 3.6)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "94da86c6-5220-4b51-8412-46dc35e02da7")
+	)
+	(fp_line
+		(start 5.25 3.6)
+		(end -1.75 3.6)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a7e8300f-3179-485d-96e6-645b51a30626")
+	)
+	(fp_line
+		(start -2.15 1.35)
+		(end -2.15 2.35)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e4d9b65c-756b-4013-b626-0e15ce771487")
+	)
+	(fp_line
+		(start -2.15 2.35)
+		(end -1.75 2.35)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "18b6fa70-06cc-4254-a7ea-5f265837c8c5")
+	)
+	(fp_line
+		(start -1.75 1.35)
+		(end -2.15 1.35)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4a4d2a88-673d-4c9f-9004-01b8f4d767c1")
+	)
+	(fp_line
+		(start 5.25 -3.15)
+		(end 5.65 -3.15)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1285fbe3-70a1-4dd3-ad96-d2626b91cbf3")
+	)
+	(fp_line
+		(start 5.65 -3.15)
+		(end 5.65 -2.15)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b41ff10f-3c2b-4f75-a5ec-776aeac765b6")
+	)
+	(fp_line
+		(start 5.65 -2.15)
+		(end 5.25 -2.15)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd104fb1-7aa2-4479-8ac3-e0ace2927c05")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.4318 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "803770f8-928d-415b-af8b-f0b3db71ffe8")
+	)
+	(fp_circle
+		(center 2 -3)
+		(end 2.2828 -3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "de0e3fac-d524-48a8-bd91-599b2a3d7074")
+	)
+	(fp_circle
+		(center 3.5 0)
+		(end 3.9318 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "161de6b7-2bce-41be-9083-525b048046ed")
+	)
+	(pad "1" thru_hole rect
+		(at -0.1778 0)
+		(size 2.032 2.032)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "d8cb7277-55bb-4fb5-980e-5149441f5f0c")
+	)
+	(pad "2" thru_hole circle
+		(at 3.6778 0)
+		(size 2.032 2.032)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "1ae9f666-9589-4a1b-9c39-2d8b0936ea36")
+	)
+	(embedded_fonts no)
+)
